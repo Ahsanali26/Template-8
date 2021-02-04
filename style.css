@@ -39,13 +39,6 @@
 	height: auto;
 }
 
-/*.header-cl {
-	text-align: center!important;
-	/*position: relative;
-	display: block;
-}
-*/
-
 .content{
 	width: 100%;
 }
@@ -205,14 +198,14 @@
 	width: 100%;
 	margin-left: 20px; 
 	margin-right: 20px;
-	box-shadow: 1px 0px 6px #616161;
+	box-shadow: 0px 0px 6px #616161;
 }
 
 .chart2{
 	width: 100%;
 	margin-left: 20px;
 	margin-right: 20px;
-	box-shadow: 1px 0px 6px #616161;
+	box-shadow: 0px 0px 6px #616161;
 }
 
 .table{
